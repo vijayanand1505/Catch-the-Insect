@@ -1,4 +1,4 @@
-const start_btn = document.getElementById('start_btn'); 
+const start_btn = document.getElementById('start_btn');
 const screens = document.querySelectorAll('.screen');
 const choose_insect_btns = document.querySelectorAll('.choose_insect_btn');
 const game_container = document.querySelector('.game_container');
